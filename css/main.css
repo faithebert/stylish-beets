@@ -1,7 +1,9 @@
 /*      General     */
+
 html {
   line-height: 1.5;
 }
+
 html, h2, nav {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
@@ -16,6 +18,10 @@ h1, h2 {
   color: #3f1622;
 }
 
+nav {
+  font-size: 1.125rem;
+
+}
 nav ol {
   font-weight: bold;
   color: #8f2440;
