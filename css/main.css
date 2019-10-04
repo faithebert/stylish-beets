@@ -13,6 +13,7 @@ h1, h2 {
 
 nav {
   color: #8f2440;
+  list-style-type: none;
 }
 
 a:link, a:visited {
@@ -22,4 +23,9 @@ a:link, a:visited {
 
 a:hover {
   color: #3f1622;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
 }
