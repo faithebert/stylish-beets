@@ -63,6 +63,6 @@ cite {
 
 /*-------Lists------*/
 
-.varieties {
+ol {
   list-style-type: lower-greek;
 }
