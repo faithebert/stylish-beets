@@ -14,3 +14,11 @@ h1, h2 {
 nav {
   color: #8f2440;
 }
+
+a:link {
+  color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
+}
