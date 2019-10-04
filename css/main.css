@@ -1,3 +1,7 @@
+html {
+  font-size: 1.125rem
+}
+
 html, h2, nav {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
@@ -33,9 +37,19 @@ figcaption {
 }
 
 img {
-  width: 100%;                    /* Make the width fill the whole space */
+  width: 100%;
 }
 
 .days {
   font-weight: bold;
+}
+
+blockquote {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.5rem
+}
+
+cite {
+  font-size: 0.8rem;
 }
