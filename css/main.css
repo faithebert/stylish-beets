@@ -1,13 +1,10 @@
 /*      General     */
-
 html {
-  font-size: 1.125rem;
+  line-height: 1.5;
 }
-
 html, h2, nav {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  line-height: 1.5;
 }
 
 /*      Masthead:     */
@@ -63,7 +60,7 @@ cite {
   font-size: .8rem;
 }
 
-/*      Lists       */
+/*            Lists               */
 
 ol {
   list-style-type: lower-greek;
@@ -78,8 +75,12 @@ dl dt {
   font-weight: normal;
 }
 
-/*      Aside     */
+/*            Aside             */
 
 ul {
   list-style-type: circle;
+}
+
+aside, footer {
+  font-size: .8rem;
 }
