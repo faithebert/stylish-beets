@@ -10,7 +10,7 @@ html, h2, nav {
   line-height: 1.5;
 }
 
-/*      Masthead:     ;*/
+/*      Masthead:     */
 
 h1, h2 {
   font-family: "PT Sans", sans-serif;
@@ -26,13 +26,14 @@ nav ol {
   font-family: "PT Sans", sans-serif;
 }
 
-a:link, a:visited {
+a :link, a:visited {
   color: #8f2440;
   text-decoration: none;
 }
 
-a:hover {
+a :hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 /*      Image     */
@@ -46,7 +47,7 @@ img {
   width: 100%;
 }
 
-/*        Content:     ;*/
+/*        Content     */
 
 .days {
   font-weight: bold;
@@ -62,7 +63,7 @@ cite {
   font-size: .8rem;
 }
 
-/*-------Lists------*/
+/*      Lists       */
 
 ol {
   list-style-type: lower-greek;
@@ -77,7 +78,7 @@ dl dt {
   font-weight: normal;
 }
 
-/*------Aside-----*/
+/*      Aside     */
 
 ul {
   list-style-type: circle;
