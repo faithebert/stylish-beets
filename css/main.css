@@ -15,8 +15,9 @@ nav {
   color: #8f2440;
 }
 
-a:link {
+a:link, a:visited {
   color: #8f2440;
+  text-decoration: none;
 }
 
 a:hover {
