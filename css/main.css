@@ -26,12 +26,12 @@ nav ol {
   font-family: "PT Sans", sans-serif;
 }
 
-a :link, a:visited {
+a, a:visited {
   color: #8f2440;
   text-decoration: none;
 }
 
-a :hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
