@@ -11,9 +11,11 @@ h1, h2 {
   color: #3f1622;
 }
 
-nav {
+nav ol {
+  font-weight: bold;
   color: #8f2440;
   list-style-type: none;
+  font-family: "PT Sans", sans-serif;
 }
 
 a:link, a:visited {
@@ -32,4 +34,8 @@ figcaption {
 
 img {
   width: 100%;                    /* Make the width fill the whole space */
+}
+
+.days {
+  font-weight: bold;
 }
