@@ -1,3 +1,5 @@
+/*-------General------*/
+
 html {
   font-size: 1.125rem
 }
@@ -7,6 +9,7 @@ html, h2, nav {
   font-family: "PT Serif", serif;
   line-height: 1.5;
 }
+/*-------Masthead------*/
 
 h1, h2 {
   font-family: "PT Sans", sans-serif;
@@ -31,6 +34,8 @@ a:hover {
   color: #3f1622;
 }
 
+/*--------Image-------*/
+
 figcaption {
   text-align: center;
   font-style: italic;
@@ -39,6 +44,8 @@ figcaption {
 img {
   width: 100%;
 }
+
+/*-------Content------*/
 
 .days {
   font-weight: bold;
@@ -54,6 +61,8 @@ cite {
   font-size: 0.8rem;
 }
 
+/*-------Lists------*/
+
 .varieties {
-  list-style-type: lower-alpha;
+  list-style-type: lower-greek;
 }
